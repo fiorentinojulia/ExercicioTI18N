@@ -1,0 +1,8 @@
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\obj\Debug\TI18N.csproj.AssemblyReference.cache
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\obj\Debug\TI18N.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\obj\Debug\TI18N.csproj.CoreCompileInputs.cache
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\bin\Debug\TI18N.exe.config
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\bin\Debug\TI18N.exe
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\bin\Debug\TI18N.pdb
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\obj\Debug\TI18N.exe
+C:\Users\julia.fiorentino\source\repos\TI18N\TI18N\obj\Debug\TI18N.pdb
